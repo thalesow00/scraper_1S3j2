@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+
+gem "nokogiri", "~> 1.15" # Scraping HTML
+gem "open-uri", "~> 0.3" # Charger des pages web
+gem "rspec", "~> 3.11" # Tests
+gem "rubocop", "~> 1.43" # Linter
+gem "pry", "~> 0.14.1" # Debugging
+gem "dotenv", "~> 2.8" # Gestion des clés API
